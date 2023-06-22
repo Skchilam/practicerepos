@@ -1,1 +1,1 @@
-http://34.200.232.126:8080/JENKINS_URL/multibranch-webhook-trigger/invoke?token=token
+http://34.200.232.126:8080/multibranch-webhook-trigger/invoke?token=token
